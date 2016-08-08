@@ -1,0 +1,12 @@
+# Site settings
+title: Cafés Vie Privés à Fribourg
+# email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  Les Café vie privée sont une initiative pour aider le grand public à protéger sa vie privée sur Internet, et/ou dans l'espace physique.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://cafe-vie-privee.ch" # the base hostname & protocol for your site
+twitter_username: CryptoCH
+github_username:  CryptoCH
+
+# Build settings
+markdown: kramdown
